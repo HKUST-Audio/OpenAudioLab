@@ -1,5 +1,5 @@
 # OpenAudioLab
-This page highlights audio-related works from Audio Group at Machine Creativity Lab, HKUST, led by [Wei XUE](www.weixue.com).
+This page highlights audio-related works from Audio Group at Machine Creativity Lab, HKUST, led by [Wei XUE](weixue.com).
 
 ## Source Codes
 
